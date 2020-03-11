@@ -1,12 +1,7 @@
-# Machine Learning Model Building Pipeline
-Built a Neural Network utilising a big dataset (> 1GB). Performed data exploration to understand what the dataset is about and pre-processed data to be able to use it in a convolutional neural network.
+# Differentiating-Weed-from-Crop-Seedlings-with-CNN
+The aim of the project is to correctly identify the weed type from a variety of weed and crop RGB images with Convolutional Neural Networks. Built a Neural Network utilising a big dataset (> 1GB). Performed data exploration to understand what the dataset is about and pre-processed data to be able to use it in a convolutional neural network.
 
 Used the V2 Plant Seedlings Dataset available on [Kaggle.com](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset). See below for more details.
-
-===================================================================================================
-
-## Differentiating-Weed-from-Crop-Seedlings-with-CNN
-The aim of the project is to correctly identify the weed type from a variety of weed and crop RGB images with Convolutional Neural Networks
 
 ===================================================================================================
 
